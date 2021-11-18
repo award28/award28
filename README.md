@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @award28
-- 👀 I’m interested in building scrappy projects that make's the lives of those around me a little easier :)
+- 👀 I’m interested in building scrappy projects that make the lives of those around me a little easier :)
 - 🌱 I’m currently learning how to scale an event driven system with some of the most friendliest and most brilliant people our industry has to offer.
 - 💞️ I’m looking to collaborate on open source projects used by both my company and myself. Some of my favorites are: RabbitMQ, Terraform, Homebridge, Octopi, and some others.
 - 📫 Reach me at ward.austin28@gmail.com!
